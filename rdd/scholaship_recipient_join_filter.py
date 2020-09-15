@@ -15,7 +15,8 @@ if __name__ == '__main__':
         .appName("RDD examples") \
         .master('local[*]') \
         .getOrCreate()
-    #spark.sparkContext.setlogLevel('ERROR')
+    spark.sparkContext.setLogLevel('ERROR')
+    spark.sparkContext.set
     current_dir = os.path.abspath(os.path.dirname(__file__))
     appConfigFilePath = os.path.abspath(current_dir + "/../" + "application.yml")
 
