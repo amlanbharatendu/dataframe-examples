@@ -16,7 +16,6 @@ if __name__ == '__main__':
         .master('local[*]') \
         .getOrCreate()
     spark.sparkContext.setLogLevel('ERROR')
-    spark.sparkContext.set
     current_dir = os.path.abspath(os.path.dirname(__file__))
     appConfigFilePath = os.path.abspath(current_dir + "/../" + "application.yml")
 
