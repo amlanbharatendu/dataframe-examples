@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77da146f-1a01-48b5-844d-9f1f2fa176d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataframe-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataframe-examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/curation/FinanceDataAnalysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/curation/JoinsDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/curation/MoreFuncDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/curation/UdfDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/curation/WindowFuncDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/files/csv_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/files/csv_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/files/json_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/files/json_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/files/parquet_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/files/parquet_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/others/systems/mongo_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/others/systems/mongo_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/others/systems/mysql_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/others/systems/mysql_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/others/systems/redshift_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/others/systems/redshift_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/others/systems/sftp_df.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/others/systems/sftp_df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/rdd/rdd2df_thru_explicit_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/rdd/rdd2df_thru_explicit_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/rdd/rdd2df_thru_schema_autoinfer.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/rdd/rdd2df_thru_schema_autoinfer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/provision/df_mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/provision/df_mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/provision/df_redshift.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/provision/df_redshift.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rdd/scholaship_recipient_cartesian_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/rdd/scholaship_recipient_cartesian_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rdd/scholaship_recipient_filter_join.py" beforeDir="false" afterPath="$PROJECT_DIR$/rdd/scholaship_recipient_filter_join.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rdd/scholaship_recipient_join_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/rdd/scholaship_recipient_join_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/aws_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/aws_utils.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
